@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lokesh
-- 👀 I’m interested in Web Development, and Android Development.
+- 👀 I’m interested in Web Development, and Android Development, Python Programming, Cloud computing.
 - 🌱 I’m currently pursuing my Under graduate in CSE in  SRM Institute of Science and Technology
 - 📫 How to reach me - sailokesh.182@gmail.com  
 -   LINKEDIN        -  www.linkedin.com/in/lokesh-gonela
